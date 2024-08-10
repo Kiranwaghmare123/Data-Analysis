@@ -9,8 +9,11 @@
 	-EDA in Model
 	-Regression Model
 	
-	
+#Learning: 
+![image](https://github.com/user-attachments/assets/59e4329d-cb53-4a0c-a28d-ab60fc121c51)
+
 # Learning Models:  Types:
+![image](https://github.com/user-attachments/assets/5f082ae4-f9dd-4cf6-89d4-daae16325173)
 
 ### 1. Supervised Learning
 	-Supervisers
@@ -22,6 +25,7 @@
     -Input / Output
     -Labelled data
     -Techniques: Classification and Regression (Prediction)
+![image](https://github.com/user-attachments/assets/e5b12486-7f14-4d45-92e7-407332c65d36)
 	
 ### 2. Unsupervised Learning
 	-No supervisers
@@ -74,7 +78,12 @@
     
     Hybrid Model that include Supervised Learning -----  Labelled and Unlabelled data
     (Semi-supervised Learning)
+  ### Data Distribution:
   
+  ![image](https://github.com/user-attachments/assets/2192c379-2433-4d1b-b16b-deb3a798e458)
+### Data modelling with dataset:
+![image](https://github.com/user-attachments/assets/b00d11af-53ac-42a4-be2e-86197af6c00e)
+
 # Terminologies:
 --------------
     Model : specific representation learned from data by applying some machine learning algorithms.
@@ -91,6 +100,8 @@
 
 # Steps for development of application:
 -------------------------------------
+![image](https://github.com/user-attachments/assets/5cabd5d3-2761-41c8-b2d1-188aada2475f)
+
     1. Collect the data
     2. Preprocess the data
     3. Feature engineering 
@@ -150,17 +161,21 @@
 
 ### 2. Feature Transformation:
     -It involves modifying or creating new features to improve the model's performance.
+![image](https://github.com/user-attachments/assets/5a8d55ca-f827-4749-b84c-784df0dd89b3)
     
     2.1 Normalization: sclaes the features to standard range, typically [0,1]
     
     2.2 Standardization: scales features to have a mean of 0 and st dev of 1.
+![image](https://github.com/user-attachments/assets/b62b74be-7270-4e6f-bca2-e0a9a92eee83)
 
 ### 3. Encoding Categorical variable (text data)
     -It can be encoded into numerical format 
     
     3.1 One hot encoding: creates binary columns for each category
-    
+![image](https://github.com/user-attachments/assets/6f5382b8-dd65-416d-a0b5-6bc122c7fb4c)
+
     3.2 Label encoding: assigning uniques integer values to each category
+![image](https://github.com/user-attachments/assets/adf979e4-a7f0-42d6-8861-f3b4c5944a7b)
 
 ### 4. Feature Extraction:
     -It reduces the dimensionality of data while perseving important information. 
@@ -168,6 +183,7 @@
 
   	-a. Principal Componenet Analysis (PCA): Transform features into a set of linearly uncorrelated components.
 
+![image](https://github.com/user-attachments/assets/b76ce8da-d197-4772-a113-23a505febce8)
 
 ### 5. Feature Creation:
     -It involves generating new features from existing ones to capture additional information.
