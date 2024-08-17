@@ -114,4 +114,6 @@
     a = Slope (linear coefficient)
     b = Intercept
 
-	
+### Splitting of dataset in training data ans testing data:
+![image](https://github.com/user-attachments/assets/19f3764c-f316-41ac-ade4-39ecd9963e4c)
+
